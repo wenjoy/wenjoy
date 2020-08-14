@@ -1,15 +1,15 @@
 
 <a href="https://github.com/wenjoy">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenjoy&show_icons=true" alt="wenjoy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wenjoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="wenjoy's GitHub Stats" />
 </a>
 
 ### My latest projects
 
 <a href="https://github.com/wenjoy/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward" alt="codestats-profile-readme" />
 </a>
 <a href="https://github.com/wenjoy/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql" alt="Geometry-Dash-Menu-Music-Randomizer" />
 </a>
 
 ### Recently I'm coding in...
