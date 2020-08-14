@@ -22,4 +22,11 @@
 </a> -->
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   27 hrs 41 mins  █████████████████░░░░░░░░   67.99 % 
+Markdown     7 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+JavaScript   2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Other        1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Fish         1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+```
 <!--END_SECTION:waka-->
