@@ -6,10 +6,13 @@
 ### My latest projects
 
 <a href="https://github.com/wenjoy/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Technology_forward" />
 </a>
 <a href="https://github.com/wenjoy/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql" alt="Geometry-Dash-Menu-Music-Randomizer" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="deno_mysql" />
+</a>
+<a href="https://github.com/wenjoy/Geometry-Dash-Menu-Music-Randomizer">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=plugin-git&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="plugin-git" />
 </a>
 
 ### Recently I'm coding in...
