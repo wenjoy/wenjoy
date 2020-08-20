@@ -1,3 +1,5 @@
+### My latest activities:
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#41](https://github.com//jhillyerd/plugin-git/issues/41) in [jhillyerd/plugin-git](https://github.com//jhillyerd/plugin-git)
 2. 🗣 Commented on [#42](https://github.com//jhillyerd/plugin-git/issues/42) in [jhillyerd/plugin-git](https://github.com//jhillyerd/plugin-git)
@@ -5,8 +7,6 @@
 4. 🗣 Commented on [#16](https://github.com//manyuanrong/deno_mysql/issues/16) in [manyuanrong/deno_mysql](https://github.com//manyuanrong/deno_mysql)
 5. 💪 Opened PR [#42](https://github.com//jhillyerd/plugin-git/pull/42) in [jhillyerd/plugin-git](https://github.com//jhillyerd/plugin-git)
 <!--END_SECTION:activity-->
-
-## My latest projects
 
 <table>
   <tr style="padding: 20px;">
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&theme=gruvbox" alt="img" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=plugin-git&theme=gruvbox" alt="img" />
     </td>
   </tr>
 </table>
