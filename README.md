@@ -5,17 +5,21 @@
 
 ### My latest projects
 
-<div style="display: grid;grid-template-columns: auto auto;">
-  <div style="padding: 20px;">
+<table>
+  <tr style="padding: 20px;">
+    <td>
     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Technology_forward" />
-  </div>
-    <div style="padding: 20px;">
+  </td>
+    <td style="padding: 20px;">
       <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="deno_mysql" />
-  </div>
-    <div style="padding: 20px;">
+  </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="plugin-git" />
-  </div>
-<div>
+  </td>
+  </tr>
+</table>
 
 
 
