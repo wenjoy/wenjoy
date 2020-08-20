@@ -11,7 +11,7 @@
 <table>
   <tr style="padding: 20px;">
     <td rowspan="3">
-      <img src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=wenjoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="wenjoy's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=wenjoy&show_icons=true5" alt="wenjoy's GitHub Stats" />
     </td>
     <td>
       <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" alt="deno_mysql" />
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="plugin-git" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f5" alt="plugin-git" />
     </td>
   </tr>
   <tr>
