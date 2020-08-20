@@ -11,20 +11,15 @@
 <table>
   <tr style="padding: 20px;">
     <td rowspan="3">
-      <img src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=wenjoy&show_icons=true5" alt="wenjoy's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=wenjoy&show_icons=true&count_private=true&line_height=35" alt="wenjoy's GitHub Stats" />
     </td>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&theme=gruvbox" alt="deno_mysql" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&theme=gruvbox" alt="img" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&theme=gruvbox" alt="plugin-git" />
-    </td>
-  </tr>
-  <tr>
-    <td>      
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&theme=gruvbox" alt="Technology_forward" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&theme=gruvbox" alt="img" />
     </td>
   </tr>
 </table>
