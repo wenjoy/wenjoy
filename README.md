@@ -1,26 +1,27 @@
+<!--START_SECTION:activity-->
 
-<a href="https://github.com/wenjoy">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenjoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="wenjoy's GitHub Stats" />
-</a>
-
-### My latest projects
+## My latest projects
 
 <table>
   <tr style="padding: 20px;">
+    <td rowspan="3">
+      <img src="https://github-readme-stats.vercel.app/api?username=wenjoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="wenjoy's GitHub Stats" />
+    </td>
     <td>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Technology_forward" />
-  </td>
-    <td style="padding: 20px;">
       <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="deno_mysql" />
-  </td>
+    </td>
   </tr>
   <tr>
-    <td style="padding: 20px;">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="plugin-git" />
-  </td>
+    <td>
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="plugin-git" />
+    </td>
+  </tr>
+  <tr>
+    <td>      
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Technology_forward" />
+    </td>
   </tr>
 </table>
-
 
 <!-- <a href="https://codestats.net/users/wenjoy">
   <img src='https://codestats-readme.wenjoy.cn/history-graph/wenjoy?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="wenjoy's Code::Stats history graph" />
