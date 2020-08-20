@@ -14,17 +14,17 @@
       <img src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=wenjoy&show_icons=true5" alt="wenjoy's GitHub Stats" />
     </td>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" alt="deno_mysql" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=deno_mysql&theme=gruvbox" alt="deno_mysql" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&title_color=fff&icon_color=79ff97&text_color=9f9f9f5" alt="plugin-git" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=visualization_app&theme=gruvbox" alt="plugin-git" />
     </td>
   </tr>
   <tr>
     <td>      
-      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Technology_forward" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjoy&repo=Technology-forward&theme=gruvbox" alt="Technology_forward" />
     </td>
   </tr>
 </table>
