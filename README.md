@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -74,12 +74,12 @@ Sunday       11 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       12 hrs 2 mins       ████████████████░░░░░░░░░   64.63% 
-TypeScript               6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.27% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Go                       11 hrs 16 mins      ████████████████░░░░░░░░░   64.81% 
+TypeScript               6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   35.11% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Mac                      18 hrs 37 mins      █████████████████████████   100.0%
+Mac                      17 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
