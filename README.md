@@ -29,13 +29,13 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 53 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -74,12 +74,10 @@ Sunday       11 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         █████████████████████░░░░   87.18% 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
