@@ -1,7 +1,7 @@
 ### My latest activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com//jhillyerd/plugin-git/issues/41) in [jhillyerd/plugin-git](https://github.com//jhillyerd/plugin-git)
+1. 🗣 Commented on [#7](https://github.com/wechat-miniprogram/miniprogram-component-plus/issues/7) in [wechat-miniprogram/miniprogram-component-plus](https://github.com/wechat-miniprogram/miniprogram-component-plus)
 2. 🗣 Commented on [#42](https://github.com//jhillyerd/plugin-git/issues/42) in [jhillyerd/plugin-git](https://github.com//jhillyerd/plugin-git)
 3. 🗣 Commented on [#68](https://github.com//manyuanrong/deno_mysql/issues/68) in [manyuanrong/deno_mysql](https://github.com//manyuanrong/deno_mysql)
 4. 🗣 Commented on [#16](https://github.com//manyuanrong/deno_mysql/issues/16) in [manyuanrong/deno_mysql](https://github.com//manyuanrong/deno_mysql)
